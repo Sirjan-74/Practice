@@ -1,4 +1,5 @@
-//finding vowels,consonants,uppercase,lowercase
+//Finding vowels,consonants,uppercase,lowercase,Digits
+
 import java.util.Scanner;
 
 public class vowels{
